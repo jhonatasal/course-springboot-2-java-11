@@ -8,6 +8,7 @@ public class CouseApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CouseApplication.class, args);
+		
 	}
 
 }
